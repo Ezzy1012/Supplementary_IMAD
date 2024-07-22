@@ -16,6 +16,6 @@ The detailed view screen:
  
 The last screen may not look pleasing, in fact it may even look blank, however I assure you once all the details have been met the screen will fill up with a lot of data which consists of, the average water a person has drank for he day and for the week and the additional notes for said person.
 
-Flowchart: 
+Flowchart in word document 
   ![image](https://github.com/user-attachments/assets/672db48a-0d04-4e6a-bf0f-cd2d014069d1)
   C:\Users\lab_services_student\Desktop\SuppExam
